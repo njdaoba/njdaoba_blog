@@ -29,7 +29,7 @@
 					</li>
 				</ul>
 			</form>
-			<p><a href="#">返回首页</a> &copy; 2016 Powered by <a href="http://www.chenhua.club" target="_blank">http://www.chenhua.club</a></p>
+			<p><a href="#">返回首页</a> &copy; 2016 Powered by <a href="" target="_blank">njdoba</a></p>
 		</div>
 	</div>
 @endsection
